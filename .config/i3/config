@@ -3,7 +3,6 @@
 
 # ==== Software =============================================
 #
-#   dmenu                   Default application bar
 #   i3status-rs             Status bar 
 #   alacritty               GPU Accelerated terminal emulator
 #   flameshot               Screenshot tool
