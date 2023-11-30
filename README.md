@@ -1,6 +1,7 @@
 # Dotfiles
 blahblahblah whatever man you know what dotfiles are
 
+shamefullesly stolen from [fr3fou/dotfiles](https://github.com/fr3fou/dotfiles)
 # Usage:
 
 ### Create a bare repo
