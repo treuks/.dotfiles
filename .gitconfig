@@ -7,5 +7,8 @@
 [user]
 	name = Nicole
 	email = ks2225@protonmail.com
+	signingkey = 9C3C053183FC138C
 [color]
 	ui = auto
+[commit]
+	gpgsign = true

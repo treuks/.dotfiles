@@ -17,3 +17,5 @@ export CHATTERINO2_RECENT_MESSAGES_URL=https://recent-messages.zneix.eu/api/v2/r
 export PATH=$PATH:/home/tks/.local/share/ivm/bin
 
 alias dots='git --git-dir=$HOME/.dotfiles/ --work-tree=$HOME'
+
+export GPG_TTY=$(tty)
